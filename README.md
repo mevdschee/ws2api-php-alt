@@ -69,6 +69,6 @@ It should not show any variables.
 
 You can run the code using:
 
-    php server.php
+    php src/server.php
 
 Enjoy!
